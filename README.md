@@ -22,3 +22,7 @@ The Career Path aims to teach you everything you need to know to be hired as a F
 ### Module 13 - React basics
 ### Module 14 - Advanced React
 ### Module 15 - Getting hired
+
+### [Full Stack Open](https://fullstackopen.com/en/) (Currently Studying)
+
+Course focused on modern JavaScript-based web development and building single page applications with ReactJS that use REST APIs built with Node.js. Technologies taught are React, Redux, Node.js, MongoDB, Apollo, GraphQL and TypeScript
