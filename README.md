@@ -2,7 +2,7 @@
 
 Certificates in Software Programming
 
-### [Scrimba Front End Career Path](https://scrimba.com/certificate/u5ekdkH2/gfrontend)
+## [Scrimba Front End Career Path](https://scrimba.com/certificate/u5ekdkH2/gfrontend)
 ![alt text](https://github.com/martinlrmr/certificates/blob/main/img/ScrimbaCert.png)
 
 The Career Path aims to teach you everything you need to know to be hired as a Frontend developer. It includes HTML, CSS, JavaScript, React, UI Design, career advice and contains over 70 hours of tutorials, hundreds of coding challenges, and dozens of real-world projects.
@@ -23,6 +23,10 @@ The Career Path aims to teach you everything you need to know to be hired as a F
 ### Module 14 - Advanced React
 ### Module 15 - Getting hired
 
-### [Full Stack Open](https://fullstackopen.com/en/) (Currently Studying)
+<br/>
 
-Course focused on modern JavaScript-based web development and building single page applications with ReactJS that use REST APIs built with Node.js. Technologies taught are React, Redux, Node.js, MongoDB, Apollo, GraphQL and TypeScript
+## [Full Stack Open](https://fullstackopen.com/en/) (Currently Studying)
+
+Course focused on modern JavaScript-based web development and building single page applications with ReactJS that use REST APIs built with Node.js.
+
+Technologies covered includes React, Redux, Node.js, MongoDB, Apollo, GraphQL and TypeScript.
